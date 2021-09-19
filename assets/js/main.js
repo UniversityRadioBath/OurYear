@@ -36,11 +36,11 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							//'images/bg01.jpg': 'center',
-							'images/TNS.jpg': 'center',
-							'images/oct1650yearsjpg.jpg': 'center',
-							'images/apr2008s1_4.jpg': 'center',
-							'images/ducks1997.jpg': 'center',
+							'images/bg01.jpg': 'center',
+							'images/bg02.jpg': 'center',
+							'images/bg03.jpg': 'center',
+							'images/bg04.jpg': 'center'
+							
 						},
 
 					// Delay.
